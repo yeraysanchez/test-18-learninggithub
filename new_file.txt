@@ -4,4 +4,6 @@ Primer repositorio github
 
 esto es una _cursiva_ la negrita es "asi"
 
-estoi modificando en un branch
+estoi modificando en un branch patch 1
+
+ahora *modifico* en un patch 2
